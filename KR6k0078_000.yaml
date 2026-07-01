@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0078/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 菩薩戒義疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T40/T40n1811.xml
+    old_id: T40n1811
+hash: sha256:e9eb207a01b0aadbb5507bffe5fc4c39ea7d63312e4b83357da66cad9f6ac378
